@@ -23,8 +23,7 @@ const Select = ({ label, value, onChange, children }) => {
           </Icon>
         </IconWrapper>
       </PresentationalBit>
-    </Wrapper>
-    
+    </Wrapper>  
   );
 };
 
